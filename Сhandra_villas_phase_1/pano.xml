@@ -14,13 +14,13 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node23" author="" source="" longitude="" datetime="14.01.2021 15:58" info="" heading="-10" description="" title="Сourtyard 1" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55716622" nodeid="node23" author="" source="" longitude="100.04583732" datetime="14.01.2021 15:58" info="" heading="-10" description="" title="Сourtyard 1" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-0.678406" y_floorplan_percent="44.95" x_floorplan_percent="73.3132" x="1.99951" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="122.5/-0.6/70.0" description="" title="Сourtyard 2" url="{node22}" skinid="ht_node" pan="-213.07" tilt="1.22"/>
+      <hotspot id="Point01" distance="8.45728" target="122.5/-0.6/70.0" description="" title="Сourtyard 2" url="{node22}" skinid="ht_node" pan="-213.07" tilt="1.22"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -43,15 +43,15 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node22" author="" source="" longitude="" datetime="14.01.2021 15:53" info="" heading="-35" description="" title="Сourtyard 2" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55709797" nodeid="node22" author="" source="" longitude="100.04580328" datetime="14.01.2021 15:53" info="" heading="-35" description="" title="Сourtyard 2" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-0.571289" y_floorplan_percent="37.8526" x_floorplan_percent="43.6052" x="1.18927" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point02" target="-86.3/-0.1/71.5" description="" title="Living room 1" url="{node8}" skinid="ht_node" pan="-175.85" tilt="0.38"/>
-      <hotspot id="Point03" target="120.2/0.0/70.0" description="" title="Badroom 1 floor 1" url="{node21}" skinid="ht_node" pan="-238.05" tilt="0.2"/>
-      <hotspot id="Point01" target="131.0/0.0/70.0" description="" title="Сourtyard 1" url="{node23}" skinid="ht_node" pan="-64.31" tilt="0.79"/>
+      <hotspot id="Point02" distance="3.32235" target="-86.3/-0.1/71.5" description="" title="Living room 1" url="{node8}" skinid="ht_node" pan="-175.85" tilt="0.38"/>
+      <hotspot id="Point03" distance="5.25198" target="120.2/0.0/70.0" description="" title="Badroom 1 floor 1" url="{node21}" skinid="ht_node" pan="-238.05" tilt="0.2"/>
+      <hotspot id="Point01" distance="8.45728" target="131.0/0.0/70.0" description="" title="Сourtyard 1" url="{node23}" skinid="ht_node" pan="-64.31" tilt="0.79"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -74,16 +74,16 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node8" author="" source="" longitude="" datetime="11.01.2021 09:06" info="" heading="-35" description="" title="Living room 1" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55707563" nodeid="node8" author="" source="" longitude="100.04582340" datetime="11.01.2021 09:06" info="" heading="-35" description="" title="Living room 1" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-0.850067" y_floorplan_percent="56.3239" x_floorplan_percent="37.7644" x="1.02997" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="23.5/0.0/77.9" description="" title="Сourtyard 2" url="{node22}" skinid="ht_node" pan="-338.95" tilt="3.19"/>
-      <hotspot id="Point04" target="91.1/-19.5/89.7" description="" title="Guest toilet" url="{node11}" skinid="ht_node" pan="-202.84" tilt="-1.99"/>
-      <hotspot id="Point05" target="-59.5/-0.9/70.0" description="" title="Living room 3" url="{node12}" skinid="ht_node" pan="-89.81" tilt="0.25"/>
-      <hotspot id="Point02" target="-115.0/-4.6/91.0" description="" title="Corridor 1st floor" url="{node24}" skinid="ht_node" pan="118.72" tilt="-3.01"/>
+      <hotspot id="Point01" distance="3.32235" target="23.5/0.0/77.9" description="" title="Сourtyard 2" url="{node22}" skinid="ht_node" pan="-338.95" tilt="3.19"/>
+      <hotspot id="Point04" distance="2.68121" target="91.1/-19.5/89.7" description="" title="Guest toilet" url="{node11}" skinid="ht_node" pan="-202.84" tilt="-1.99"/>
+      <hotspot id="Point05" distance="3.29475" target="-59.5/-0.9/70.0" description="" title="Living room 3" url="{node12}" skinid="ht_node" pan="-89.81" tilt="0.25"/>
+      <hotspot id="Point02" distance="3.28718" target="-115.0/-4.6/91.0" description="" title="Corridor 1st floor" url="{node24}" skinid="ht_node" pan="118.72" tilt="-3.01"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -106,14 +106,14 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node12" author="" source="" longitude="" datetime="14.01.2021 08:52" info="" heading="-40" description="" title="Living room 3" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55709563" nodeid="node12" author="" source="" longitude="100.04584557" datetime="14.01.2021 08:52" info="" heading="-40" description="" title="Living room 3" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-1.00388" y_floorplan_percent="66.515" x_floorplan_percent="47.9859" x="1.30875" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-55.3/0.0/70.0" description="" title="Living room 4" url="{node13}" skinid="ht_node" pan="-62.96" tilt="0.53"/>
-      <hotspot id="Point03" target="134.3/-0.6/70.0" description="" title="Living room 1" url="{node8}" skinid="ht_node" pan="-272.67" tilt="-2.97"/>
+      <hotspot id="Point01" distance="3.15148" target="-55.3/0.0/70.0" description="" title="Living room 4" url="{node13}" skinid="ht_node" pan="-62.96" tilt="0.53"/>
+      <hotspot id="Point03" distance="3.29475" target="134.3/-0.6/70.0" description="" title="Living room 1" url="{node8}" skinid="ht_node" pan="-272.67" tilt="-2.97"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -136,14 +136,14 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node13" author="" source="" longitude="" datetime="14.01.2021 08:59" info="" heading="-29" description="" title="Living room 4" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55712316" nodeid="node13" author="" source="" longitude="100.04585240" datetime="14.01.2021 08:59" info="" heading="-29" description="" title="Living room 4" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-0.977783" y_floorplan_percent="64.7862" x_floorplan_percent="59.1138" x="1.61224" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-51.0/-0.8/70.0" description="" title="Living room 5" url="{node14}" skinid="ht_node" pan="-57.98" tilt="0.59"/>
-      <hotspot id="Point02" target="107.7/-2.2/70.0" description="" title="Living room 3" url="{node12}" skinid="ht_node" pan="-234.3" tilt="0.869999"/>
+      <hotspot id="Point01" distance="2.98369" target="-51.0/-0.8/70.0" description="" title="Living room 5" url="{node14}" skinid="ht_node" pan="-57.98" tilt="0.59"/>
+      <hotspot id="Point02" distance="3.15148" target="107.7/-2.2/70.0" description="" title="Living room 3" url="{node12}" skinid="ht_node" pan="-234.3" tilt="0.869999"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -166,13 +166,13 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node14" author="" source="" longitude="" datetime="14.01.2021 09:05" info="" heading="-34" description="" title="Living room 5" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55714850" nodeid="node14" author="" source="" longitude="100.04586135" datetime="14.01.2021 09:05" info="" heading="-34" description="" title="Living room 5" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-0.98053" y_floorplan_percent="64.9682" x_floorplan_percent="69.6878" x="1.90063" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="127.6/0.2/70.0" description="" title="Living room 4" url="{node13}" skinid="ht_node" pan="-235.75" tilt="-0.27"/>
+      <hotspot id="Point01" distance="2.98369" target="127.6/0.2/70.0" description="" title="Living room 4" url="{node13}" skinid="ht_node" pan="-235.75" tilt="-0.27"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -195,16 +195,16 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node24" author="" source="" longitude="" datetime="11.01.2021 09:11" info="" heading="-35" description="" title="Corridor 1st floor" comment="" customnodeid="" tags="1floor" copyright="">
+    <userdata latitude="9.55704717" nodeid="node24" author="" source="" longitude="100.04581529" datetime="11.01.2021 09:11" info="" heading="-35" description="" title="Corridor 1st floor" comment="" customnodeid="" tags="1floor|Ground" copyright="">
       <mapcoords y="-0.866547" y_floorplan_percent="57.4158" x_floorplan_percent="26.1329" x="0.712738" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point02" target="$fwd" description="" title="Badroom 1 floor 1" url="{node21}" skinid="ht_node" pan="39.0224" tilt="1.89"/>
-      <hotspot id="Point03" target="-82.9/6.0/70.0" description="" title="Staircase to the 2nd floor" url="{node25}" skinid="ht_node" pan="-158.08" tilt="30.67"/>
-      <hotspot id="Point04" target="-96.0/0.0/70.0" description="" title="Living room 1" url="{node8}" skinid="ht_node" pan="-59.43" tilt="-1.5"/>
-      <hotspot id="Point05" target="78.0/-20.0/87.0" description="" title="Guest toilet" url="{node11}" skinid="ht_node" pan="-115.47" tilt="-0.41"/>
+      <hotspot id="Point02" distance="3.38222" target="$fwd" description="" title="Badroom 1 floor 1" url="{node21}" skinid="ht_node" pan="39.0224" tilt="1.89"/>
+      <hotspot id="Point03" distance="9.04043" target="-82.9/6.0/70.0" description="" title="Staircase to the 2nd floor" url="{node25}" skinid="ht_node" pan="-158.08" tilt="30.67"/>
+      <hotspot id="Point04" distance="3.28718" target="-96.0/0.0/70.0" description="" title="Living room 1" url="{node8}" skinid="ht_node" pan="-59.43" tilt="-1.5"/>
+      <hotspot id="Point05" distance="3.05614" target="78.0/-20.0/87.0" description="" title="Guest toilet" url="{node11}" skinid="ht_node" pan="-115.47" tilt="-0.41"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -227,13 +227,13 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node11" author="" source="" longitude="" datetime="11.01.2021 15:24" info="" heading="-155.36" description="" title="Guest toilet" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55705855" nodeid="node11" author="" source="" longitude="100.04584066" datetime="11.01.2021 15:24" info="" heading="-155.36" description="" title="Guest toilet" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-1.08215" y_floorplan_percent="71.7015" x_floorplan_percent="33.5347" x="0.914612" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-96.0/0.0/70.0" description="" title="Living room 1" url="{node8}" skinid="ht_node" pan="-101.88" tilt="-2.03"/>
+      <hotspot id="Point01" distance="2.68121" target="-96.0/0.0/70.0" description="" title="Living room 1" url="{node8}" skinid="ht_node" pan="-101.88" tilt="-2.03"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -256,15 +256,15 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node21" author="" source="" longitude="" datetime="14.01.2021 15:49" info="" heading="-35" description="" title="Badroom 1 floor 1" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55705420" nodeid="node21" author="" source="" longitude="100.04578528" datetime="14.01.2021 15:49" info="" heading="-35" description="" title="Badroom 1 floor 1" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-0.541077" y_floorplan_percent="35.8508" x_floorplan_percent="25.0252" x="0.682526" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point02" target="172.8/0.0/70.0" description="" title="Badroom 1 floor 2" url="{node20}" skinid="ht_node" pan="-188.91" tilt="-0.17"/>
-      <hotspot id="Point03" target="-114.0/0.0/91.0" description="" title="Corridor 1st floor" url="{node24}" skinid="ht_node" pan="-137.23" tilt="-0.67"/>
-      <hotspot id="Point01" target="154.2/-0.4/70.0" description="" title="Сourtyard 2" url="{node22}" skinid="ht_node" pan="-58.62" tilt="-2.4"/>
+      <hotspot id="Point02" distance="2.44378" target="172.8/0.0/70.0" description="" title="Badroom 1 floor 2" url="{node20}" skinid="ht_node" pan="-188.91" tilt="-0.17"/>
+      <hotspot id="Point03" distance="3.38222" target="-114.0/0.0/91.0" description="" title="Corridor 1st floor" url="{node24}" skinid="ht_node" pan="-137.23" tilt="-0.67"/>
+      <hotspot id="Point01" distance="5.25198" target="154.2/-0.4/70.0" description="" title="Сourtyard 2" url="{node22}" skinid="ht_node" pan="-58.62" tilt="-2.4"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -287,14 +287,14 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node20" author="" source="" longitude="" datetime="14.01.2021 15:46" info="" heading="-35" description="" title="Badroom 1 floor 2" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55703292" nodeid="node20" author="" source="" longitude="100.04579085" datetime="14.01.2021 15:46" info="" heading="-35" description="" title="Badroom 1 floor 2" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-0.670166" y_floorplan_percent="44.404" x_floorplan_percent="17.7744" x="0.484772" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-9.8/0.0/70.0" description="" title="Badroom 1 floor 1" url="{node21}" skinid="ht_node" pan="-9.26" tilt="-0.0100001"/>
-      <hotspot id="Point02" target="5.8/-4.9/70.0" description="" title="Bathroom bedroom 1st floor" url="{node10}" skinid="ht_node" pan="-148.17" tilt="-0.189999"/>
+      <hotspot id="Point01" distance="2.44378" target="-9.8/0.0/70.0" description="" title="Badroom 1 floor 1" url="{node21}" skinid="ht_node" pan="-9.26" tilt="-0.0100001"/>
+      <hotspot id="Point02" distance="4.30542" target="5.8/-4.9/70.0" description="" title="Bathroom bedroom 1st floor" url="{node10}" skinid="ht_node" pan="-148.17" tilt="-0.189999"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -317,13 +317,13 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node10" author="" source="" longitude="" datetime="11.01.2021 15:09" info="" heading="115" description="" title="Bathroom bedroom 1st floor" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55702053" nodeid="node10" author="" source="" longitude="100.04582805" datetime="11.01.2021 15:09" info="" heading="115" description="" title="Bathroom bedroom 1st floor" comment="" customnodeid="" tags="Panorama|Ground" copyright="">
       <mapcoords y="-1.08627" y_floorplan_percent="71.9745" x_floorplan_percent="17.7744" x="0.484772" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="23.7/-4.6/70.0" description="" title="Badroom 1 floor 2" url="{node20}" skinid="ht_node" pan="-169.94" tilt="2.27"/>
+      <hotspot id="Point01" distance="4.30542" target="23.7/-4.6/70.0" description="" title="Badroom 1 floor 2" url="{node20}" skinid="ht_node" pan="-169.94" tilt="2.27"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -346,17 +346,17 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node25" author="" source="" longitude="" datetime="11.01.2021 08:34" info="" heading="-113" description="" title="Staircase to the 2nd floor" comment="" customnodeid="" tags="" copyright="">
+    <userdata latitude="9.55700842" nodeid="node25" author="" source="" longitude="100.04588777" datetime="11.01.2021 08:34" info="" heading="-113" description="" title="Staircase to the 2nd floor" comment="" customnodeid="" tags="Second|Ground" copyright="">
       <mapcoords y="-1.33896" y_floorplan_percent="88.717" x_floorplan_percent="23.3132" x="0.635834" mapid="FloorPlan03"/>
       <mapcoords y="-1.20712" y_floorplan_percent="79.9818" x_floorplan_percent="25.3273" x="0.690765" mapid="FloorPlan02"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point02" target="-85.4/-3.4/91.0" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-82.12" tilt="11.74"/>
-      <hotspot id="Point03" target="53.0/0.0/105.4" description="" title="Second floor bedroom 2-1" url="{node19}" skinid="ht_node" pan="-53.27" tilt="22.35"/>
-      <hotspot id="Point04" target="-77.0/0.0/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-108.32" tilt="25.21"/>
-      <hotspot id="Point01" target="-114.0/0.0/91.0" description="" title="Corridor 1st floor" url="{node24}" skinid="ht_node" pan="-60.27" tilt="-12.27"/>
+      <hotspot id="Point02" distance="6.00364" target="-85.4/-3.4/91.0" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-82.12" tilt="11.74"/>
+      <hotspot id="Point03" distance="10.7993" target="53.0/0.0/105.4" description="" title="Second floor bedroom 2-1" url="{node19}" skinid="ht_node" pan="-53.27" tilt="22.35"/>
+      <hotspot id="Point04" distance="11.5977" target="-77.0/0.0/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-108.32" tilt="25.21"/>
+      <hotspot id="Point01" distance="9.04043" target="-114.0/0.0/91.0" description="" title="Corridor 1st floor" url="{node24}" skinid="ht_node" pan="-60.27" tilt="-12.27"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -379,17 +379,17 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node4" author="" source="" longitude="" datetime="11.01.2021 08:04" info="" heading="0" description="" title="Second floor corridor" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55704381" nodeid="node4" author="" source="" longitude="100.04584642" datetime="11.01.2021 08:04" info="" heading="0" description="" title="Second floor corridor" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-0.858307" y_floorplan_percent="56.8699" x_floorplan_percent="30.4129" x="0.829468" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-71.6/-5.0/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-52.4" tilt="1.35"/>
-      <hotspot id="Point02" target="-30.0/0.4/70.0" description="" title="Terrace 1" url="{node15}" skinid="ht_node" pan="-132.63" tilt="3.64"/>
-      <hotspot id="Point03" target="50.2/-9.6/98.4" description="" title="Second floor bedroom 2-1" url="{node19}" skinid="ht_node" pan="-289.02" tilt="1.68"/>
-      <hotspot id="Point04" target="-69.3/-43.6/70.0" description="" title="Staircase to the 2nd floor" url="{node25}" skinid="ht_node" pan="-167.08" tilt="-37.75"/>
-      <hotspot id="Point05" target="-175.7/-1.6/80.0" description="" title="Bathroom bedroom 2 floor 2" url="{node9}" skinid="ht_node" pan="-98.67" tilt="1.37"/>
+      <hotspot id="Point01" distance="7.71191" target="-71.6/-5.0/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-52.4" tilt="1.35"/>
+      <hotspot id="Point02" distance="7.16323" target="-30.0/0.4/70.0" description="" title="Terrace 1" url="{node15}" skinid="ht_node" pan="-132.63" tilt="3.64"/>
+      <hotspot id="Point03" distance="6.17418" target="50.2/-9.6/98.4" description="" title="Second floor bedroom 2-1" url="{node19}" skinid="ht_node" pan="-289.02" tilt="1.68"/>
+      <hotspot id="Point04" distance="6.00364" target="-69.3/-43.6/70.0" description="" title="Staircase to the 2nd floor" url="{node25}" skinid="ht_node" pan="-167.08" tilt="-37.75"/>
+      <hotspot id="Point05" distance="6.18326" target="-175.7/-1.6/80.0" description="" title="Bathroom bedroom 2 floor 2" url="{node9}" skinid="ht_node" pan="-98.67" tilt="1.37"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -412,15 +412,15 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node3" author="" source="" longitude="" datetime="11.01.2021 08:00" info="" heading="-25" description="" title="Bedroom second floor 1" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55711046" nodeid="node3" author="" source="" longitude="100.04586587" datetime="11.01.2021 08:00" info="" heading="-25" description="" title="Bedroom second floor 1" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-0.823975" y_floorplan_percent="54.5951" x_floorplan_percent="54.7835" x="1.49414" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-60.6/-2.4/91.4" description="" title="Bedroom second floor 2" url="{node2}" skinid="ht_node" pan="-74.54" tilt="-0.910001"/>
-      <hotspot id="Point03" target="155.7/-16.4/108.2" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-232.62" tilt="3.24"/>
-      <hotspot id="Point04" target="-170.2/-2.6/86.9" description="" title="Bathroom bedroom 2 floor 2" url="{node9}" skinid="ht_node" pan="-185.2" tilt="3.47"/>
+      <hotspot id="Point01" distance="7.82351" target="-60.6/-2.4/91.4" description="" title="Bedroom second floor 2" url="{node2}" skinid="ht_node" pan="-74.54" tilt="-0.910001"/>
+      <hotspot id="Point03" distance="7.71191" target="155.7/-16.4/108.2" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-232.62" tilt="3.24"/>
+      <hotspot id="Point04" distance="4.55493" target="-170.2/-2.6/86.9" description="" title="Bathroom bedroom 2 floor 2" url="{node9}" skinid="ht_node" pan="-185.2" tilt="3.47"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -443,14 +443,14 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node2" author="" source="" longitude="" datetime="11.01.2021 07:56" info="" heading="-40" description="" title="Bedroom second floor 2" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55715818" nodeid="node2" author="" source="" longitude="100.04591830" datetime="11.01.2021 07:56" info="" heading="-40" description="" title="Bedroom second floor 2" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-1.14395" y_floorplan_percent="75.7962" x_floorplan_percent="76.5861" x="2.08878" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="" description="" title="Bedroom second floor terrace" url="{node1}" skinid="ht_node" pan="-62.23" tilt="-0.13"/>
-      <hotspot id="Point02" target="144.6/1.5/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-271.36" tilt="4.31"/>
+      <hotspot id="Point01" distance="3.53846" target="" description="" title="Bedroom second floor terrace" url="{node1}" skinid="ht_node" pan="-62.23" tilt="-0.13"/>
+      <hotspot id="Point02" distance="7.82351" target="144.6/1.5/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-271.36" tilt="4.31"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -473,14 +473,14 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node1" author="" source="" longitude="" datetime="11.01.2021 07:52" info="" heading="-25" description="" title="Bedroom second floor terrace" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55718924" nodeid="node1" author="" source="" longitude="100.04592532" datetime="11.01.2021 07:52" info="" heading="-25" description="" title="Bedroom second floor terrace" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-1.10962" y_floorplan_percent="73.5214" x_floorplan_percent="87.714" x="2.39227" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="101.1/2.7/80.0" description="" title="Bedroom second floor 2" url="{node2}" skinid="ht_node" pan="-217.45" tilt="-0.299999"/>
-      <hotspot id="Point02" target="129.2/-6.9/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-254.26" tilt="-0.0600001"/>
+      <hotspot id="Point01" distance="3.53846" target="101.1/2.7/80.0" description="" title="Bedroom second floor 2" url="{node2}" skinid="ht_node" pan="-217.45" tilt="-0.299999"/>
+      <hotspot id="Point02" distance="10.9193" target="129.2/-6.9/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-254.26" tilt="-0.0600001"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -503,14 +503,14 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node9" author="" source="" longitude="" datetime="11.01.2021 09:19" info="" heading="-34" description="" title="Bathroom bedroom 2 floor 2" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55707785" nodeid="node9" author="" source="" longitude="100.04589101" datetime="11.01.2021 09:19" info="" heading="-34" description="" title="Bathroom bedroom 2 floor 2" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-1.15082" y_floorplan_percent="76.2511" x_floorplan_percent="46.7774" x="1.27579" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="131.7/-11.3/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-13.77" tilt="0.359999"/>
-      <hotspot id="Point02" target="148.1/-15.6/98.6" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-276.83" tilt="-1.21"/>
+      <hotspot id="Point01" distance="4.55493" target="131.7/-11.3/70.0" description="" title="Bedroom second floor 1" url="{node3}" skinid="ht_node" pan="-13.77" tilt="0.359999"/>
+      <hotspot id="Point02" distance="6.18326" target="148.1/-15.6/98.6" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-276.83" tilt="-1.21"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -533,14 +533,14 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node19" author="" source="" longitude="" datetime="14.01.2021 15:32" info="" heading="-35" description="" title="Second floor bedroom 2-1" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55703028" nodeid="node19" author="" source="" longitude="100.04579181" datetime="14.01.2021 15:32" info="" heading="-35" description="" title="Second floor bedroom 2-1" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-0.411987" y_floorplan_percent="27.2975" x_floorplan_percent="19.7382" x="0.53833" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-168.8/-1.2/70.0" description="" title="Second floor bedroom 2-2" url="{node18}" skinid="ht_node" pan="-192" tilt="-0.23"/>
-      <hotspot id="Point02" target="-122.2/-14.9/91.0" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-136.15" tilt="-0.900001"/>
+      <hotspot id="Point01" distance="3.29861" target="-168.8/-1.2/70.0" description="" title="Second floor bedroom 2-2" url="{node18}" skinid="ht_node" pan="-192" tilt="-0.23"/>
+      <hotspot id="Point02" distance="6.17418" target="-122.2/-14.9/91.0" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-136.15" tilt="-0.900001"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -563,14 +563,14 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node18" author="" source="" longitude="" datetime="14.01.2021 15:27" info="" heading="-35" description="" title="Second floor bedroom 2-2" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55700323" nodeid="node18" author="" source="" longitude="100.04580416" datetime="14.01.2021 15:27" info="" heading="-35" description="" title="Second floor bedroom 2-2" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-0.606995" y_floorplan_percent="40.2184" x_floorplan_percent="12.1349" x="0.330963" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="172.9/-5.7/70.0" description="" title="Bathroom bedroom 2 floor 3" url="{node17}" skinid="ht_node" pan="-145.57" tilt="-0.99"/>
-      <hotspot id="Point02" target="-107.5/-0.3/93.9" description="" title="Second floor bedroom 2-1" url="{node19}" skinid="ht_node" pan="-353.36" tilt="1.4"/>
+      <hotspot id="Point01" distance="6.35056" target="172.9/-5.7/70.0" description="" title="Bathroom bedroom 2 floor 3" url="{node17}" skinid="ht_node" pan="-145.57" tilt="-0.99"/>
+      <hotspot id="Point02" distance="3.29861" target="-107.5/-0.3/93.9" description="" title="Second floor bedroom 2-1" url="{node19}" skinid="ht_node" pan="-353.36" tilt="1.4"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -593,13 +593,13 @@
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node17" author="" source="" longitude="" datetime="14.01.2021 15:21" info="" heading="-35" description="" title="Bathroom bedroom 2 floor 3" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55698626" nodeid="node17" author="" source="" longitude="100.04585946" datetime="14.01.2021 15:21" info="" heading="-35" description="" title="Bathroom bedroom 2 floor 3" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-1.15494" y_floorplan_percent="76.5241" x_floorplan_percent="12.7392" x="0.347443" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="10.4/-4.1/70.0" description="" title="Second floor bedroom 2-2" url="{node18}" skinid="ht_node" pan="-328.18" tilt="-1.12"/>
+      <hotspot id="Point01" distance="6.35056" target="10.4/-4.1/70.0" description="" title="Second floor bedroom 2-2" url="{node18}" skinid="ht_node" pan="-328.18" tilt="-1.12"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -622,14 +622,14 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node15" author="" source="" longitude="" datetime="14.01.2021 09:31" info="" heading="-35" description="" title="Terrace 1" comment="" customnodeid="" tags="Panorama" copyright="">
+    <userdata latitude="9.55703747" nodeid="node15" author="" source="" longitude="100.04591143" datetime="14.01.2021 09:31" info="" heading="-35" description="" title="Terrace 1" comment="" customnodeid="" tags="Panorama|Second" copyright="">
       <mapcoords y="-1.45981" y_floorplan_percent="96.7243" x_floorplan_percent="35.6495" x="0.97229" mapid="FloorPlan03"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-51.2/0.2/70.0" description="" title="Terrace 2" url="{node16}" skinid="ht_node" pan="-61.81" tilt="-2.11"/>
-      <hotspot id="Point02" target="-111.1/-12.3/107.0" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-177.6" tilt="2.4"/>
+      <hotspot id="Point01" distance="16.7476" target="-51.2/0.2/70.0" description="" title="Terrace 2" url="{node16}" skinid="ht_node" pan="-61.81" tilt="-2.11"/>
+      <hotspot id="Point02" distance="7.16323" target="-111.1/-12.3/107.0" description="" title="Second floor corridor" url="{node4}" skinid="ht_node" pan="-177.6" tilt="2.4"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -652,11 +652,11 @@
       <min fovpixel="2" pan="-360" tilt="-90"/>
       <max fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360" pan="0" tilt="90"/>
     </view>
-    <userdata latitude="" nodeid="node16" author="" source="" longitude="" datetime="14.01.2021 10:01" info="" heading="0" description="" title="Terrace 2" comment="" customnodeid="" tags="Panorama" copyright=""/>
+    <userdata latitude="9.55717666" nodeid="node16" author="" source="" longitude="100.04596978" datetime="14.01.2021 10:01" info="" heading="0" description="" title="Terrace 2" comment="" customnodeid="" tags="Panorama" copyright=""/>
     <hotspots height="20" wordwrap="1" width="180">
       <label enabled="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000" border="1" borderradius="1" height="20" background="1" wordwrap="1" width="180" backgroundalpha="1" textalpha="1" backgroundcolor="0xffffff"/>
       <polystyle handcursor="1" bordercolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" mode="0"/>
-      <hotspot id="Point01" target="-177.0/-7.3/70.0" description="" title="Terrace 1" url="{node15}" skinid="ht_node" pan="-236.37" tilt="-0.18"/>
+      <hotspot id="Point01" distance="16.7476" target="-177.0/-7.3/70.0" description="" title="Terrace 1" url="{node15}" skinid="ht_node" pan="-236.37" tilt="-0.18"/>
     </hotspots>
     <media/>
     <transition enabled="1" zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="0.5" zoomfov="20" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000"/>
@@ -675,6 +675,6 @@
   <masternode>
     <userdata latitude="" nodeid="master" author="" source="" longitude="" datetime="" info="" heading="0" description="" title="" comment="" customnodeid="" tags="" copyright=""/>
   </masternode>
-  <map id="FloorPlan03" tileformat="jpg" type="file" height="1099" transparent="0" width="1986" floorplannorth="70.99" title="Second Floor" bgcolor="rgba(255, 255, 255, 1)" zoomlevels="1"/>
-  <map id="FloorPlan02" tileformat="jpg" type="file" height="1099" transparent="0" width="1986" floorplannorth="71.34" title="Ground Floor" bgcolor="rgba(255, 255, 255, 1)" zoomlevels="1"/>
+  <map id="FloorPlan03" tileformat="jpg" type="file" height="1099" transparent="0" width="1986" floorplannorth="70.99" title="Second Floor" bgcolor="rgba(213, 213, 213, 1)" zoomlevels="1"/>
+  <map id="FloorPlan02" tileformat="jpg" type="file" height="1099" transparent="0" width="1986" floorplannorth="71.34" title="Ground Floor" bgcolor="rgba(222, 222, 222, 1)" zoomlevels="1"/>
 </tour>
