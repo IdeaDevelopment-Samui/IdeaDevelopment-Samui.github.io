@@ -48,11 +48,11 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label border="1" backgroundalpha="1" height="20" wordwrap="1" enabled="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" borderradius="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-284.23" title="" target="86.9/3.5/70.0" tilt="-6.23" skinid="ht_node" id="Point01" description="" url="{node6}"/>
-      <hotspot pan="-57.33" title="" target="-88.3/-11.0/70.0" tilt="-6.23" skinid="ht_node" id="Point02" description="" url="{node3}"/>
-      <hotspot pan="-10.5" title="" target="" tilt="-5.9" skinid="ht_node" id="Point03" description="" url="{node4}"/>
+      <hotspot pan="-283.83" title="" target="86.9/3.5/70.0" tilt="-0.0399999" skinid="ht_node" id="Point01" description="" url="{node6}"/>
+      <hotspot pan="-57.34" title="" target="-88.3/-11.0/70.0" tilt="0.06" skinid="ht_node" id="Point02" description="" url="{node3}"/>
+      <hotspot pan="-10.39" title="" target="" tilt="0.1" skinid="ht_node" id="Point03" description="" url="{node4}"/>
       <hotspot pan="-177.75" title="" target="-140.5/1.2/70.0" tilt="-0.7" skinid="ht_node" id="Point05" description="" url="{node21}"/>
-      <hotspot pan="-103.47" title="" target="" tilt="-5.81" skinid="ht_node" id="Point04" description="" url="{node5}"/>
+      <hotspot pan="-103.47" title="" target="" tilt="-0.14" skinid="ht_node" id="Point04" description="" url="{node5}"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomin="0" zoomspeed="2" zoomout="0" zoomoutpause="1" enabled="1" softedge="0" blendtime="1" blendcolor="0x000000"/>
@@ -80,9 +80,9 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label border="1" backgroundalpha="1" height="20" wordwrap="1" enabled="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" borderradius="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-232.21" title="" target="116.7/-8.3/70.0" tilt="-13.05" skinid="ht_node" id="Point01" description="" url="{node1}"/>
-      <hotspot pan="-327.8" title="" target="66.6/-2.2/70.0" tilt="-7.43" skinid="ht_node" id="Point02" description="" url="{node4}"/>
-      <hotspot pan="-139.35" title="" target="" tilt="-17.22" skinid="ht_node" id="Point03" description="" url="{node5}"/>
+      <hotspot pan="-232.59" title="" target="116.7/-8.3/70.0" tilt="0.23" skinid="ht_node" id="Point01" description="" url="{node1}"/>
+      <hotspot pan="-327.9" title="" target="66.6/-2.2/70.0" tilt="0.25" skinid="ht_node" id="Point02" description="" url="{node4}"/>
+      <hotspot pan="-139.6" title="" target="" tilt="0.26" skinid="ht_node" id="Point03" description="" url="{node5}"/>
       <hotspot pan="-285.54" title="" target="139.7/-29.3/70.0" tilt="-9.42" skinid="ht_node" id="Point04" description="" url="{node13}"/>
     </hotspots>
     <media/>
@@ -140,12 +140,12 @@
     <hotspots height="20" wordwrap="1" width="180">
       <label border="1" backgroundalpha="1" height="20" wordwrap="1" enabled="1" textalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" borderradius="1" bordercolor="0x000000"/>
       <polystyle mode="0" backgroundalpha="0.25098" backgroundcolor="0x0000ff" handcursor="1" borderalpha="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-321.03" title="" target="22.2/-3.5/70.0" tilt="-17.62" skinid="ht_node" id="Point01" description="" url="{node3}"/>
+      <hotspot pan="-321.13" title="" target="22.2/-3.5/70.0" tilt="4.9" skinid="ht_node" id="Point01" description="" url="{node3}"/>
       <hotspot pan="-175.63" title="" target="13.5/-2.9/70.0" tilt="0.66" skinid="ht_node" id="Point02" description="" url="{node8}"/>
       <hotspot pan="-81.91" title="" target="17.8/0.4/70.0" tilt="-0.02" skinid="ht_node" id="Point03" description="" url="{node7}"/>
     </hotspots>
     <media>
-      <video startmutedmobile="0" rotz="0.000" ambientlevel="0.000" level="0.400" mode="3" tiltsize="10.000" clickmode="0" tilt="-39.880" width="1478" stretch="1.000" fov="90.000" id="Element01" field="90.000" pan="-118.210" pansize="10.000" height="1478" handcursor="0" nodechangekeep="0" loop="0" rotx="0.000" roty="0.000">
+      <video startmutedmobile="0" rotz="0.000" ambientlevel="0.000" level="0.300" mode="3" tiltsize="10.000" clickmode="0" tilt="-39.880" width="1478" stretch="1.000" fov="90.000" id="Element01" field="90.000" pan="-118.210" pansize="10.000" height="1478" handcursor="0" nodechangekeep="0" loop="0" rotx="0.000" roty="0.000">
         <source url="media/Двор 2_patch_2.mp4"/>
       </video>
     </media>
