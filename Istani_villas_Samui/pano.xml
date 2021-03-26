@@ -27,9 +27,8 @@
         <source url="media/Jungle Sounds.mp3"/>
       </sound>
     </media>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0">
       <clip transitiontype="0" nodeid="" cliptitle="Clip01" animtype="0" nextcliptitle="Clip01" nextclipnodeid="node6" nextclipstartview="179.12/8.63/83.04/9" animtitle="Animation01" length="80">
         <keyframe time="0" type="0" valuestring="" property="0" additionaltrackid="" value="179.12" transitiontime="0"/>
@@ -91,9 +90,8 @@
         <source url="media/Jazz Music.mp3"/>
       </sound>
     </media>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -127,9 +125,8 @@
         <source url="media/Jazz Music.mp3"/>
       </sound>
     </media>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -161,9 +158,8 @@
         <source url="media/Jazz Music.mp3"/>
       </sound>
     </media>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -202,9 +198,8 @@
         <source url="media/Jungle Sounds.mp3"/>
       </sound>
     </media>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -236,9 +231,8 @@
         <source url="media/Jungle Sounds.mp3"/>
       </sound>
     </media>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -265,9 +259,8 @@
       <hotspot title="Living room 1" tilt="-5.1" skinid="ht_node77" pan="-82.22" url="{node1}" target="-50.4/-0.3/70.0" id="Point01" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -296,9 +289,8 @@
       <hotspot title="Bathroom" tilt="-8.33" skinid="ht_node77" pan="-206.13" url="{node17}" target="98.2/-1.1/70.0" id="Point03" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -331,9 +323,8 @@
         <source url="media/Jungle Sounds.mp3"/>
       </sound>
     </media>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -359,9 +350,8 @@
       <hotspot title="Bathroom 2" tilt="-28.77" skinid="ht_node77" pan="-275.47" url="{node18}" target="-112.5/-1.3/70.0" id="Point02" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -386,9 +376,8 @@
       <hotspot title="Bathroom 1" tilt="-31.13" skinid="ht_node77" pan="-92" url="{node17}" target="-129.1/-2.2/70.0" id="Point01" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -417,9 +406,8 @@
       <hotspot title="Bedroom" tilt="-5.09" skinid="ht_node77" pan="-324.83" url="{node19}" target="66.4/0.2/70.0" id="Point03" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -448,9 +436,8 @@
       <hotspot title="Bedroom" tilt="-31.66" skinid="ht_node77" pan="-358.3" url="{node21}" target="-119.5/-0.1/70.0" id="Point03" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -479,9 +466,8 @@
       <hotspot title="Bathroom" tilt="-9.29" skinid="ht_node77" pan="-204.63" url="{node15}" target="138.9/0.0/70.0" id="Point03" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -509,9 +495,8 @@
       <hotspot title="Bathroom" tilt="-6.85" skinid="ht_node77" pan="-244.87" url="{node15}" target="" id="Point02" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -539,9 +524,8 @@
       <hotspot title="Bathroom 2" tilt="-29.15" skinid="ht_node77" pan="-263.51" url="{node16}" target="" id="Point02" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -568,9 +552,8 @@
       <hotspot title="Bathroom 1" tilt="-28.14" skinid="ht_node77" pan="-93.37" url="{node15}" target="" id="Point01" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -600,9 +583,8 @@
       <hotspot title="Exit" tilt="-6.89" skinid="ht_node77" pan="-246.05" url="{node23}" target="123.9/-11.5/96.3" id="Point04" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -629,9 +611,8 @@
       <hotspot title="Bedroom" tilt="-26.47" skinid="ht_node77" pan="-132.57" url="{node19}" target="66.4/0.2/70.0" id="Point01" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -662,9 +643,8 @@
         <source url="media/Jungle Sounds.mp3"/>
       </sound>
     </media>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
@@ -691,9 +671,8 @@
       <hotspot title="Bedroom" tilt="-19.77" skinid="ht_node77" pan="-337.71" url="{node19}" target="66.4/0.2/70.0" id="Point01" description=""/>
     </hotspots>
     <media/>
-    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="2" zoomin="2"/>
-    <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
-    <flyintransition enabled="1" speed="2.99"/>
+    <transition softedge="0" type="crossdissolve" blendtime="1" zoomfov="20" enabled="1" zoomoutpause="1" zoomspeed="2" blendcolor="0x000000" zoomout="0" zoomin="0"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
     <control lockedkeyboard="0" simulatemass="1" invertwheel="0" speedwheel="1" contextprojections="0" invertcontrol="1" lockedmouse="0" rubberband="0" lockedkeyboardzoom="0" hideabout="0" sensitivity="8" lockedwheel="0" dblclickfullscreen="0" contextfullscreen="1"/>
   </panorama>
